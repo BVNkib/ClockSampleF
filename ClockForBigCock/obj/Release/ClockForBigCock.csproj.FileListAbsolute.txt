@@ -1,0 +1,15 @@
+C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\bin\Release\ClockForBigCock.exe.config
+C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\bin\Release\ClockForBigCock.exe.manifest
+C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\bin\Release\ClockForBigCock.application
+C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\bin\Release\ClockForBigCock.exe
+C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\bin\Release\ClockForBigCock.pdb
+C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\obj\Release\ClockForBigCock.Form1.resources
+C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\obj\Release\ClockForBigCock.Properties.Resources.resources
+C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\obj\Release\ClockForBigCock.csproj.GenerateResource.cache
+C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\obj\Release\ClockForBigCock.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\obj\Release\ClockForBigCock.exe.manifest
+C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\obj\Release\ClockForBigCock.application
+C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\obj\Release\ClockForBigCock.exe
+C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\obj\Release\ClockForBigCock.pdb
+C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\obj\Release\ClockForBigCock.csproj.AssemblyReference.cache
+C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\obj\Release\ClockForBigCock.csproj.SuggestedBindingRedirects.cache
