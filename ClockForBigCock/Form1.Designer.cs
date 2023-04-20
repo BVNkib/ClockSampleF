@@ -125,13 +125,12 @@ namespace ClockForBigCock
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Comic Sans MS", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label1.ForeColor = System.Drawing.Color.Black;
-            this.label1.Location = new System.Drawing.Point(200, 89);
+            this.label1.Location = new System.Drawing.Point(200, 87);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(302, 53);
             this.label1.TabIndex = 1;
             this.label1.Text = "00::00::00";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -257,7 +256,6 @@ namespace ClockForBigCock
             this.pictureBox15.Size = new System.Drawing.Size(29, 31);
             this.pictureBox15.TabIndex = 19;
             this.pictureBox15.TabStop = false;
-            this.pictureBox15.Click += new System.EventHandler(this.pictureBox15_Click);
             // 
             // pictureBox16
             // 
@@ -268,7 +266,6 @@ namespace ClockForBigCock
             this.pictureBox16.Size = new System.Drawing.Size(29, 31);
             this.pictureBox16.TabIndex = 20;
             this.pictureBox16.TabStop = false;
-            this.pictureBox16.Click += new System.EventHandler(this.pictureBox16_Click);
             // 
             // pictureBox17
             // 
@@ -279,7 +276,6 @@ namespace ClockForBigCock
             this.pictureBox17.Size = new System.Drawing.Size(29, 31);
             this.pictureBox17.TabIndex = 21;
             this.pictureBox17.TabStop = false;
-            this.pictureBox17.Click += new System.EventHandler(this.pictureBox17_Click);
             // 
             // pictureBox18
             // 
@@ -290,7 +286,6 @@ namespace ClockForBigCock
             this.pictureBox18.Size = new System.Drawing.Size(29, 31);
             this.pictureBox18.TabIndex = 22;
             this.pictureBox18.TabStop = false;
-            this.pictureBox18.Click += new System.EventHandler(this.pictureBox18_Click);
             // 
             // pictureBox19
             // 
@@ -301,7 +296,6 @@ namespace ClockForBigCock
             this.pictureBox19.Size = new System.Drawing.Size(38, 31);
             this.pictureBox19.TabIndex = 23;
             this.pictureBox19.TabStop = false;
-            this.pictureBox19.Click += new System.EventHandler(this.pictureBox19_Click);
             // 
             // pictureBox21
             // 
@@ -537,7 +531,7 @@ namespace ClockForBigCock
             // 
             this.pictureBox48.Image = global::ClockForBigCock.Properties.Resources.Sanessss;
             this.pictureBox48.InitialImage = global::ClockForBigCock.Properties.Resources.Sanessss;
-            this.pictureBox48.Location = new System.Drawing.Point(485, 25);
+            this.pictureBox48.Location = new System.Drawing.Point(485, 32);
             this.pictureBox48.Name = "pictureBox48";
             this.pictureBox48.Size = new System.Drawing.Size(29, 31);
             this.pictureBox48.TabIndex = 52;
@@ -547,7 +541,7 @@ namespace ClockForBigCock
             // 
             this.pictureBox50.Image = global::ClockForBigCock.Properties.Resources.Sanessss;
             this.pictureBox50.InitialImage = global::ClockForBigCock.Properties.Resources.Sanessss;
-            this.pictureBox50.Location = new System.Drawing.Point(485, 56);
+            this.pictureBox50.Location = new System.Drawing.Point(485, 62);
             this.pictureBox50.Name = "pictureBox50";
             this.pictureBox50.Size = new System.Drawing.Size(29, 31);
             this.pictureBox50.TabIndex = 54;
