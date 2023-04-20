@@ -1,17 +1,3 @@
-C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\bin\Debug\ClockForBigCock.exe.config
-C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\bin\Debug\ClockForBigCock.exe
-C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\bin\Debug\ClockForBigCock.pdb
-C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\obj\Debug\ClockForBigCock.csproj.AssemblyReference.cache
-C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\obj\Debug\ClockForBigCock.Form1.resources
-C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\obj\Debug\ClockForBigCock.Properties.Resources.resources
-C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\obj\Debug\ClockForBigCock.csproj.GenerateResource.cache
-C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\obj\Debug\ClockForBigCock.csproj.CoreCompileInputs.cache
-C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\obj\Debug\ClockForBigCock.exe
-C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\obj\Debug\ClockForBigCock.pdb
-C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\bin\Debug\ClockForBigCock.exe.manifest
-C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\bin\Debug\ClockForBigCock.application
-C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\obj\Debug\ClockForBigCock.exe.manifest
-C:\Users\Andrey\source\repos\ClockForBigCock\ClockForBigCock\obj\Debug\ClockForBigCock.application
 C:\Users\BAZZLIGHTER-jrn\Desktop\source\repos\EenclaverFix\VS\ClockForBigCock\bin\Debug\ClockForBigCock.exe.config
 C:\Users\BAZZLIGHTER-jrn\Desktop\source\repos\EenclaverFix\VS\ClockForBigCock\bin\Debug\ClockForBigCock.exe.manifest
 C:\Users\BAZZLIGHTER-jrn\Desktop\source\repos\EenclaverFix\VS\ClockForBigCock\bin\Debug\ClockForBigCock.application
