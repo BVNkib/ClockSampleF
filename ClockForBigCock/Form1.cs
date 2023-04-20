@@ -50,7 +50,7 @@ namespace ClockForBigCock
             label1.Text = time;
             label3.Text = data;
         }
-        private void pictureBox1_Click(object sender, EventArgs e)
+        private void Exit_picture_box_click(object sender, EventArgs e)
         {
             Application.Exit();
         }

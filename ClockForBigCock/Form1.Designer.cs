@@ -35,19 +35,19 @@ namespace ClockForBigCock
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.Exit_picture_box = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.pictureBox6 = new System.Windows.Forms.PictureBox();
             this.pictureBox7 = new System.Windows.Forms.PictureBox();
             this.pictureBox8 = new System.Windows.Forms.PictureBox();
-            this.pictureBox13 = new System.Windows.Forms.PictureBox();
-            this.pictureBox15 = new System.Windows.Forms.PictureBox();
-            this.pictureBox16 = new System.Windows.Forms.PictureBox();
-            this.pictureBox17 = new System.Windows.Forms.PictureBox();
-            this.pictureBox18 = new System.Windows.Forms.PictureBox();
-            this.pictureBox19 = new System.Windows.Forms.PictureBox();
+            this.Exit_picture_box3 = new System.Windows.Forms.PictureBox();
+            this.Exit_picture_box5 = new System.Windows.Forms.PictureBox();
+            this.Exit_picture_box6 = new System.Windows.Forms.PictureBox();
+            this.Exit_picture_box7 = new System.Windows.Forms.PictureBox();
+            this.Exit_picture_box8 = new System.Windows.Forms.PictureBox();
+            this.Exit_picture_box9 = new System.Windows.Forms.PictureBox();
             this.pictureBox21 = new System.Windows.Forms.PictureBox();
             this.pictureBox26 = new System.Windows.Forms.PictureBox();
             this.pictureBox27 = new System.Windows.Forms.PictureBox();
@@ -75,19 +75,19 @@ namespace ClockForBigCock
             this.pictureBox50 = new System.Windows.Forms.PictureBox();
             this.pictureBox51 = new System.Windows.Forms.PictureBox();
             this.pictureBox52 = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Exit_picture_box)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox19)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Exit_picture_box3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Exit_picture_box5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Exit_picture_box6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Exit_picture_box7)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Exit_picture_box8)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Exit_picture_box9)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox21)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox27)).BeginInit();
@@ -166,16 +166,16 @@ namespace ClockForBigCock
             this.timer1.Enabled = true;
             this.timer1.Tick += new System.EventHandler(this.Timer1_Tick);
             // 
-            // pictureBox1
+            // Exit_picture_box
             // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.InitialImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.InitialImage")));
-            this.pictureBox1.Location = new System.Drawing.Point(485, -2);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(29, 31);
-            this.pictureBox1.TabIndex = 5;
-            this.pictureBox1.TabStop = false;
-            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
+            this.Exit_picture_box.Image = ((System.Drawing.Image)(resources.GetObject("Exit_picture_box.Image")));
+            this.Exit_picture_box.InitialImage = ((System.Drawing.Image)(resources.GetObject("Exit_picture_box.InitialImage")));
+            this.Exit_picture_box.Location = new System.Drawing.Point(485, -2);
+            this.Exit_picture_box.Name = "Exit_picture_box";
+            this.Exit_picture_box.Size = new System.Drawing.Size(29, 31);
+            this.Exit_picture_box.TabIndex = 5;
+            this.Exit_picture_box.TabStop = false;
+            this.Exit_picture_box.Click += new System.EventHandler(this.Exit_picture_box_click);
             // 
             // pictureBox2
             // 
@@ -237,65 +237,65 @@ namespace ClockForBigCock
             this.pictureBox8.TabIndex = 12;
             this.pictureBox8.TabStop = false;
             // 
-            // pictureBox13
+            // Exit_picture_box3
             // 
-            this.pictureBox13.Image = global::ClockForBigCock.Properties.Resources.Sanessss;
-            this.pictureBox13.InitialImage = global::ClockForBigCock.Properties.Resources.Sanessss;
-            this.pictureBox13.Location = new System.Drawing.Point(-1, 145);
-            this.pictureBox13.Name = "pictureBox13";
-            this.pictureBox13.Size = new System.Drawing.Size(29, 31);
-            this.pictureBox13.TabIndex = 17;
-            this.pictureBox13.TabStop = false;
+            this.Exit_picture_box3.Image = global::ClockForBigCock.Properties.Resources.Sanessss;
+            this.Exit_picture_box3.InitialImage = global::ClockForBigCock.Properties.Resources.Sanessss;
+            this.Exit_picture_box3.Location = new System.Drawing.Point(-1, 145);
+            this.Exit_picture_box3.Name = "Exit_picture_box3";
+            this.Exit_picture_box3.Size = new System.Drawing.Size(29, 31);
+            this.Exit_picture_box3.TabIndex = 17;
+            this.Exit_picture_box3.TabStop = false;
             // 
-            // pictureBox15
+            // Exit_picture_box5
             // 
-            this.pictureBox15.Image = global::ClockForBigCock.Properties.Resources.Sanessss;
-            this.pictureBox15.InitialImage = global::ClockForBigCock.Properties.Resources.Sanessss;
-            this.pictureBox15.Location = new System.Drawing.Point(190, 145);
-            this.pictureBox15.Name = "pictureBox15";
-            this.pictureBox15.Size = new System.Drawing.Size(29, 31);
-            this.pictureBox15.TabIndex = 19;
-            this.pictureBox15.TabStop = false;
+            this.Exit_picture_box5.Image = global::ClockForBigCock.Properties.Resources.Sanessss;
+            this.Exit_picture_box5.InitialImage = global::ClockForBigCock.Properties.Resources.Sanessss;
+            this.Exit_picture_box5.Location = new System.Drawing.Point(190, 145);
+            this.Exit_picture_box5.Name = "Exit_picture_box5";
+            this.Exit_picture_box5.Size = new System.Drawing.Size(29, 31);
+            this.Exit_picture_box5.TabIndex = 19;
+            this.Exit_picture_box5.TabStop = false;
             // 
-            // pictureBox16
+            // Exit_picture_box6
             // 
-            this.pictureBox16.Image = global::ClockForBigCock.Properties.Resources.Sanessss;
-            this.pictureBox16.InitialImage = global::ClockForBigCock.Properties.Resources.Sanessss;
-            this.pictureBox16.Location = new System.Drawing.Point(225, 145);
-            this.pictureBox16.Name = "pictureBox16";
-            this.pictureBox16.Size = new System.Drawing.Size(29, 31);
-            this.pictureBox16.TabIndex = 20;
-            this.pictureBox16.TabStop = false;
+            this.Exit_picture_box6.Image = global::ClockForBigCock.Properties.Resources.Sanessss;
+            this.Exit_picture_box6.InitialImage = global::ClockForBigCock.Properties.Resources.Sanessss;
+            this.Exit_picture_box6.Location = new System.Drawing.Point(225, 145);
+            this.Exit_picture_box6.Name = "Exit_picture_box6";
+            this.Exit_picture_box6.Size = new System.Drawing.Size(29, 31);
+            this.Exit_picture_box6.TabIndex = 20;
+            this.Exit_picture_box6.TabStop = false;
             // 
-            // pictureBox17
+            // Exit_picture_box7
             // 
-            this.pictureBox17.Image = global::ClockForBigCock.Properties.Resources.Sanessss;
-            this.pictureBox17.InitialImage = global::ClockForBigCock.Properties.Resources.Sanessss;
-            this.pictureBox17.Location = new System.Drawing.Point(260, 145);
-            this.pictureBox17.Name = "pictureBox17";
-            this.pictureBox17.Size = new System.Drawing.Size(29, 31);
-            this.pictureBox17.TabIndex = 21;
-            this.pictureBox17.TabStop = false;
+            this.Exit_picture_box7.Image = global::ClockForBigCock.Properties.Resources.Sanessss;
+            this.Exit_picture_box7.InitialImage = global::ClockForBigCock.Properties.Resources.Sanessss;
+            this.Exit_picture_box7.Location = new System.Drawing.Point(260, 145);
+            this.Exit_picture_box7.Name = "Exit_picture_box7";
+            this.Exit_picture_box7.Size = new System.Drawing.Size(29, 31);
+            this.Exit_picture_box7.TabIndex = 21;
+            this.Exit_picture_box7.TabStop = false;
             // 
-            // pictureBox18
+            // Exit_picture_box8
             // 
-            this.pictureBox18.Image = global::ClockForBigCock.Properties.Resources.Sanessss;
-            this.pictureBox18.InitialImage = global::ClockForBigCock.Properties.Resources.Sanessss;
-            this.pictureBox18.Location = new System.Drawing.Point(295, 145);
-            this.pictureBox18.Name = "pictureBox18";
-            this.pictureBox18.Size = new System.Drawing.Size(29, 31);
-            this.pictureBox18.TabIndex = 22;
-            this.pictureBox18.TabStop = false;
+            this.Exit_picture_box8.Image = global::ClockForBigCock.Properties.Resources.Sanessss;
+            this.Exit_picture_box8.InitialImage = global::ClockForBigCock.Properties.Resources.Sanessss;
+            this.Exit_picture_box8.Location = new System.Drawing.Point(295, 145);
+            this.Exit_picture_box8.Name = "Exit_picture_box8";
+            this.Exit_picture_box8.Size = new System.Drawing.Size(29, 31);
+            this.Exit_picture_box8.TabIndex = 22;
+            this.Exit_picture_box8.TabStop = false;
             // 
-            // pictureBox19
+            // Exit_picture_box9
             // 
-            this.pictureBox19.Image = global::ClockForBigCock.Properties.Resources.Sanessss;
-            this.pictureBox19.InitialImage = global::ClockForBigCock.Properties.Resources.Sanessss;
-            this.pictureBox19.Location = new System.Drawing.Point(314, 145);
-            this.pictureBox19.Name = "pictureBox19";
-            this.pictureBox19.Size = new System.Drawing.Size(38, 31);
-            this.pictureBox19.TabIndex = 23;
-            this.pictureBox19.TabStop = false;
+            this.Exit_picture_box9.Image = global::ClockForBigCock.Properties.Resources.Sanessss;
+            this.Exit_picture_box9.InitialImage = global::ClockForBigCock.Properties.Resources.Sanessss;
+            this.Exit_picture_box9.Location = new System.Drawing.Point(314, 145);
+            this.Exit_picture_box9.Name = "Exit_picture_box9";
+            this.Exit_picture_box9.Size = new System.Drawing.Size(38, 31);
+            this.Exit_picture_box9.TabIndex = 23;
+            this.Exit_picture_box9.TabStop = false;
             // 
             // pictureBox21
             // 
@@ -575,7 +575,7 @@ namespace ClockForBigCock
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.ClientSize = new System.Drawing.Size(514, 175);
             this.ControlBox = false;
-            this.Controls.Add(this.pictureBox18);
+            this.Controls.Add(this.Exit_picture_box8);
             this.Controls.Add(this.pictureBox52);
             this.Controls.Add(this.pictureBox51);
             this.Controls.Add(this.pictureBox50);
@@ -603,18 +603,18 @@ namespace ClockForBigCock
             this.Controls.Add(this.pictureBox27);
             this.Controls.Add(this.pictureBox26);
             this.Controls.Add(this.pictureBox21);
-            this.Controls.Add(this.pictureBox19);
-            this.Controls.Add(this.pictureBox17);
-            this.Controls.Add(this.pictureBox16);
-            this.Controls.Add(this.pictureBox15);
-            this.Controls.Add(this.pictureBox13);
+            this.Controls.Add(this.Exit_picture_box9);
+            this.Controls.Add(this.Exit_picture_box7);
+            this.Controls.Add(this.Exit_picture_box6);
+            this.Controls.Add(this.Exit_picture_box5);
+            this.Controls.Add(this.Exit_picture_box3);
             this.Controls.Add(this.pictureBox8);
             this.Controls.Add(this.pictureBox7);
             this.Controls.Add(this.pictureBox6);
             this.Controls.Add(this.pictureBox5);
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox2);
-            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.Exit_picture_box);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.label2);
@@ -628,19 +628,19 @@ namespace ClockForBigCock
             this.Name = "Form1";
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Exit_picture_box)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox19)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Exit_picture_box3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Exit_picture_box5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Exit_picture_box6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Exit_picture_box7)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Exit_picture_box8)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Exit_picture_box9)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox21)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox27)).EndInit();
@@ -678,19 +678,19 @@ namespace ClockForBigCock
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Timer timer1;
-        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox Exit_picture_box;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.PictureBox pictureBox3;
         private System.Windows.Forms.PictureBox pictureBox5;
         private System.Windows.Forms.PictureBox pictureBox6;
         private System.Windows.Forms.PictureBox pictureBox7;
         private System.Windows.Forms.PictureBox pictureBox8;
-        private System.Windows.Forms.PictureBox pictureBox13;
-        private System.Windows.Forms.PictureBox pictureBox15;
-        private System.Windows.Forms.PictureBox pictureBox16;
-        private System.Windows.Forms.PictureBox pictureBox17;
-        private System.Windows.Forms.PictureBox pictureBox18;
-        private System.Windows.Forms.PictureBox pictureBox19;
+        private System.Windows.Forms.PictureBox Exit_picture_box3;
+        private System.Windows.Forms.PictureBox Exit_picture_box5;
+        private System.Windows.Forms.PictureBox Exit_picture_box6;
+        private System.Windows.Forms.PictureBox Exit_picture_box7;
+        private System.Windows.Forms.PictureBox Exit_picture_box8;
+        private System.Windows.Forms.PictureBox Exit_picture_box9;
         private System.Windows.Forms.PictureBox pictureBox21;
         private System.Windows.Forms.PictureBox pictureBox26;
         private System.Windows.Forms.PictureBox pictureBox27;
