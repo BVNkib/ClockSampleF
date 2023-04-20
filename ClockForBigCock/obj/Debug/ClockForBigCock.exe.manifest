@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ClockForBigCock.exe" size="46056">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ClockForBigCock.exe" size="45032">
       <assemblyIdentity name="ClockForBigCock" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>muwRbd28/0NX1ix93aDg1xFfHJAunSbOycySQNiEYG8=</dsig:DigestValue>
+        <dsig:DigestValue>qPRh0VOIlckzYGRdfuTnQHPB73SoJoVewv7ed6v0WY0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
