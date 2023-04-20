@@ -1,13 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Windows;
-using System.Drawing;
 
 namespace ClockForBigCock
 {
@@ -19,13 +11,9 @@ namespace ClockForBigCock
             var primaryMonitorArea = System.Windows.Forms.Screen.PrimaryScreen.WorkingArea;
             Left = primaryMonitorArea.Right - Width - 10;
             Top = primaryMonitorArea.Bottom - Height - 10;
+            Timer timer = new Timer();
         }
         Timer timer = new Timer();
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -62,38 +50,7 @@ namespace ClockForBigCock
             label1.Text = time;
             label3.Text = data;
         }
-
-        private void pictureBox20_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox15_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox17_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox16_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox18_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox19_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
+        private void Exit_picture_box_click(object sender, EventArgs e)
         {
             Application.Exit();
         }
